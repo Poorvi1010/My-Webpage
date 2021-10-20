@@ -1,0 +1,20 @@
+#apps {
+    text-align: center;
+    background-color: aqua;
+    font-family: cursive;
+}
+#games {
+    text-align: center;
+    background-color: #176ffc;
+    font-family: cursive;
+}
+#chatbot {
+    text-align: center;
+    background-color: #8b87ff;
+    font-family: cursive;
+}
+#title {
+    text-align: center;
+    background-image: linear-gradient(to bottom right,aqua, rgb(255, 0, 200),#9d4bfa);
+    font-family: cursive;
+}
